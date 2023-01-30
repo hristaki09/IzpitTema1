@@ -10,13 +10,10 @@ namespace Tema1Test
     {
         static void Main(string[] args)
         {
-            int age = 0;
-            double washingMachinePrice = 0.00;
-            int presentPrice = 0;
-
-            age = int.Parse(Console.ReadLine());
-            washingMachinePrice = double.Parse(Console.ReadLine());
-            presentPrice = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter age(int), price(double), present price(int):");
+            int age = int.Parse(Console.ReadLine());
+            double washingMachinePrice = double.Parse(Console.ReadLine());
+            int presentPrice = int.Parse(Console.ReadLine());
 
             double savings = 0.00;
             int moneyFromPresents = 0;
