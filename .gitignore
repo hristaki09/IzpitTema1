@@ -3,3 +3,9 @@ Tema1Test/obj/
 .vs/
 .vscode/
 .git/
+
+*.o
+*.obj
+*.dll
+*.lib
+*.exe
