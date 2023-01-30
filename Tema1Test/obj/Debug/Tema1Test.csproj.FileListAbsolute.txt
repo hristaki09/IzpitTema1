@@ -1,0 +1,8 @@
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\bin\Debug\Tema1Test.exe.config
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\bin\Debug\Tema1Test.exe
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\bin\Debug\Tema1Test.pdb
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\obj\Debug\Tema1Test.csproj.AssemblyReference.cache
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\obj\Debug\Tema1Test.csproj.SuggestedBindingRedirects.cache
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\obj\Debug\Tema1Test.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\obj\Debug\Tema1Test.exe
+C:\SRC\CSharp\Praktika\Tema1Test\Tema1Test\obj\Debug\Tema1Test.pdb
